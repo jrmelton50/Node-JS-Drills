@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "This assignment...",
   "dependencies": {
+    "image-downloader": "^3.3.0",
     "request": "^2.85.0",
-    "request-promise": "^4.2.2"
+    "request-promise": "^4.2.2",
+    "video-downloader": "^1.0.4"
   }
 }
