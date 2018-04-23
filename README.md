@@ -1,4 +1,4 @@
-This assignment introduced us to using:
+This assignment introduced us to:
 * Node.js
 * require("request-promise")
 * require("fs")
